@@ -1,0 +1,14 @@
+{
+    "akhmisbannass": {
+      "nom": "akhmisbannass",
+      "motDePasse": "1234567"
+    },
+    "utilisateur1": {
+      "nom": "utilisateur1",
+      "motDePasse": "motDePasse1"
+    },
+    "utilisateur2": {
+      "nom": "utilisateur2",
+      "motDePasse": "motdepasse2"
+    }
+  }
